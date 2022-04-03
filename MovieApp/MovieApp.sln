@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.Entities", "MovieApp.Entities\MovieApp.Entities.csproj", "{2F662742-B018-459A-8F31-3E3BF1FBCDE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.Dal", "MovieApp.Dal\MovieApp.Dal.csproj", "{CAEB5F1F-22AF-459D-AAC2-FB93CF8CD444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.Core", "MovieApp.Core\MovieApp.Core.csproj", "{F4224155-85B1-483F-9A9E-F0B43D82E428}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.Repos", "MovieApp.Repos\MovieApp.Repos.csproj", "{60074C3E-410E-44C0-958C-9C8EA3513D64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.Uow", "MovieApp.Uow\MovieApp.Uow.csproj", "{2DCB34C5-D97E-40AA-8E78-22FDD1FDE801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.Dto", "MovieApp.Dto\MovieApp.Dto.csproj", "{6D951F18-55E6-43B9-89C4-2E8CDF14C72D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.Services", "MovieApp.Services\MovieApp.Services.csproj", "{88E2B754-176D-413A-A15E-39C209D38D53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F662742-B018-459A-8F31-3E3BF1FBCDE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F662742-B018-459A-8F31-3E3BF1FBCDE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F662742-B018-459A-8F31-3E3BF1FBCDE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F662742-B018-459A-8F31-3E3BF1FBCDE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAEB5F1F-22AF-459D-AAC2-FB93CF8CD444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAEB5F1F-22AF-459D-AAC2-FB93CF8CD444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAEB5F1F-22AF-459D-AAC2-FB93CF8CD444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAEB5F1F-22AF-459D-AAC2-FB93CF8CD444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4224155-85B1-483F-9A9E-F0B43D82E428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4224155-85B1-483F-9A9E-F0B43D82E428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4224155-85B1-483F-9A9E-F0B43D82E428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4224155-85B1-483F-9A9E-F0B43D82E428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60074C3E-410E-44C0-958C-9C8EA3513D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60074C3E-410E-44C0-958C-9C8EA3513D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60074C3E-410E-44C0-958C-9C8EA3513D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60074C3E-410E-44C0-958C-9C8EA3513D64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DCB34C5-D97E-40AA-8E78-22FDD1FDE801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCB34C5-D97E-40AA-8E78-22FDD1FDE801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCB34C5-D97E-40AA-8E78-22FDD1FDE801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCB34C5-D97E-40AA-8E78-22FDD1FDE801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D951F18-55E6-43B9-89C4-2E8CDF14C72D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D951F18-55E6-43B9-89C4-2E8CDF14C72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D951F18-55E6-43B9-89C4-2E8CDF14C72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D951F18-55E6-43B9-89C4-2E8CDF14C72D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E2B754-176D-413A-A15E-39C209D38D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E2B754-176D-413A-A15E-39C209D38D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E2B754-176D-413A-A15E-39C209D38D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E2B754-176D-413A-A15E-39C209D38D53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1EB4127-C057-43D7-90D2-4F1578240C24}
+	EndGlobalSection
+EndGlobal
