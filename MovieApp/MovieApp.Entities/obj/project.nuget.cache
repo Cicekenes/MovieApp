@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7eIex/Px6W5mvqbkPuXI9XqUNnROpQS8cHCIcPysoy+SEbzDQnB7FTsnPHOrMu9LiDrA0iNSNYxOw3r182V5fQ==",
+  "dgSpecHash": "QP1dmV3oVrU4F60daJnmwTxA7o/gEOVlWYzns5A6qvuJDIOYPuQJ5uOZyxDz843kceR3BDkP9mgTuK5Ooe7Z9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bmene\\source\\repos\\MovieApp\\MovieApp.Entities\\MovieApp.Entities.csproj",
+  "projectFilePath": "C:\\Users\\bmene\\Desktop\\git\\MovieApp\\MovieApp\\MovieApp.Entities\\MovieApp.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bmene\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\bmene\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

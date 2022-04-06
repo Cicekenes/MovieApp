@@ -1885,11 +1885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bmene\\source\\repos\\MovieApp\\MovieApp.Dal\\MovieApp.Dal.csproj",
+      "projectUniqueName": "C:\\Users\\bmene\\Desktop\\git\\MovieApp\\MovieApp\\MovieApp.Dal\\MovieApp.Dal.csproj",
       "projectName": "MovieApp.Dal",
-      "projectPath": "C:\\Users\\bmene\\source\\repos\\MovieApp\\MovieApp.Dal\\MovieApp.Dal.csproj",
+      "projectPath": "C:\\Users\\bmene\\Desktop\\git\\MovieApp\\MovieApp\\MovieApp.Dal\\MovieApp.Dal.csproj",
       "packagesPath": "C:\\Users\\bmene\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bmene\\source\\repos\\MovieApp\\MovieApp.Dal\\obj\\",
+      "outputPath": "C:\\Users\\bmene\\Desktop\\git\\MovieApp\\MovieApp\\MovieApp.Dal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bmene\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1906,8 +1906,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\bmene\\source\\repos\\MovieApp\\MovieApp.Entities\\MovieApp.Entities.csproj": {
-              "projectPath": "C:\\Users\\bmene\\source\\repos\\MovieApp\\MovieApp.Entities\\MovieApp.Entities.csproj"
+            "C:\\Users\\bmene\\Desktop\\git\\MovieApp\\MovieApp\\MovieApp.Entities\\MovieApp.Entities.csproj": {
+              "projectPath": "C:\\Users\\bmene\\Desktop\\git\\MovieApp\\MovieApp\\MovieApp.Entities\\MovieApp.Entities.csproj"
             }
           }
         }

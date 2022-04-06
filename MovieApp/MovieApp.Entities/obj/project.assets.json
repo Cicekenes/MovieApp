@@ -1865,11 +1865,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bmene\\source\\repos\\MovieApp\\MovieApp.Entities\\MovieApp.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\bmene\\Desktop\\git\\MovieApp\\MovieApp\\MovieApp.Entities\\MovieApp.Entities.csproj",
       "projectName": "MovieApp.Entities",
-      "projectPath": "C:\\Users\\bmene\\source\\repos\\MovieApp\\MovieApp.Entities\\MovieApp.Entities.csproj",
+      "projectPath": "C:\\Users\\bmene\\Desktop\\git\\MovieApp\\MovieApp\\MovieApp.Entities\\MovieApp.Entities.csproj",
       "packagesPath": "C:\\Users\\bmene\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bmene\\source\\repos\\MovieApp\\MovieApp.Entities\\obj\\",
+      "outputPath": "C:\\Users\\bmene\\Desktop\\git\\MovieApp\\MovieApp\\MovieApp.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bmene\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bmene\\source\\repos\\MovieApp\\MovieApp.Dto\\MovieApp.Dto.csproj": {}
+    "C:\\Users\\bmene\\Desktop\\git\\MovieApp\\MovieApp\\MovieApp.Dto\\MovieApp.Dto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bmene\\source\\repos\\MovieApp\\MovieApp.Dto\\MovieApp.Dto.csproj": {
+    "C:\\Users\\bmene\\Desktop\\git\\MovieApp\\MovieApp\\MovieApp.Dto\\MovieApp.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bmene\\source\\repos\\MovieApp\\MovieApp.Dto\\MovieApp.Dto.csproj",
+        "projectUniqueName": "C:\\Users\\bmene\\Desktop\\git\\MovieApp\\MovieApp\\MovieApp.Dto\\MovieApp.Dto.csproj",
         "projectName": "MovieApp.Dto",
-        "projectPath": "C:\\Users\\bmene\\source\\repos\\MovieApp\\MovieApp.Dto\\MovieApp.Dto.csproj",
+        "projectPath": "C:\\Users\\bmene\\Desktop\\git\\MovieApp\\MovieApp\\MovieApp.Dto\\MovieApp.Dto.csproj",
         "packagesPath": "C:\\Users\\bmene\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bmene\\source\\repos\\MovieApp\\MovieApp.Dto\\obj\\",
+        "outputPath": "C:\\Users\\bmene\\Desktop\\git\\MovieApp\\MovieApp\\MovieApp.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bmene\\AppData\\Roaming\\NuGet\\NuGet.Config",
