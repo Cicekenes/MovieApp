@@ -1,5 +1,0 @@
-C:\Users\bmene\source\repos\MovieApp\MovieApp.Entities\obj\Debug\net6.0\MovieApp.Entities.csproj.AssemblyReference.cache
-C:\Users\bmene\source\repos\MovieApp\MovieApp.Entities\obj\Debug\net6.0\MovieApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\bmene\source\repos\MovieApp\MovieApp.Entities\obj\Debug\net6.0\MovieApp.Entities.AssemblyInfoInputs.cache
-C:\Users\bmene\source\repos\MovieApp\MovieApp.Entities\obj\Debug\net6.0\MovieApp.Entities.AssemblyInfo.cs
-C:\Users\bmene\source\repos\MovieApp\MovieApp.Entities\obj\Debug\net6.0\MovieApp.Entities.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+C:\Users\bmene\source\repos\MovieApp\MovieApp.Dto\bin\Debug\net6.0\MovieApp.Dto.deps.json
+C:\Users\bmene\source\repos\MovieApp\MovieApp.Dto\bin\Debug\net6.0\MovieApp.Dto.runtimeconfig.json
+C:\Users\bmene\source\repos\MovieApp\MovieApp.Dto\bin\Debug\net6.0\MovieApp.Dto.dll
+C:\Users\bmene\source\repos\MovieApp\MovieApp.Dto\bin\Debug\net6.0\MovieApp.Dto.pdb
+C:\Users\bmene\source\repos\MovieApp\MovieApp.Dto\bin\Debug\net6.0\MovieApp.Entities.dll
+C:\Users\bmene\source\repos\MovieApp\MovieApp.Dto\bin\Debug\net6.0\MovieApp.Entities.pdb
+C:\Users\bmene\source\repos\MovieApp\MovieApp.Dto\obj\Debug\net6.0\MovieApp.Dto.csproj.AssemblyReference.cache
+C:\Users\bmene\source\repos\MovieApp\MovieApp.Dto\obj\Debug\net6.0\MovieApp.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmene\source\repos\MovieApp\MovieApp.Dto\obj\Debug\net6.0\MovieApp.Dto.AssemblyInfoInputs.cache
+C:\Users\bmene\source\repos\MovieApp\MovieApp.Dto\obj\Debug\net6.0\MovieApp.Dto.AssemblyInfo.cs
+C:\Users\bmene\source\repos\MovieApp\MovieApp.Dto\obj\Debug\net6.0\MovieApp.Dto.csproj.CoreCompileInputs.cache
+C:\Users\bmene\source\repos\MovieApp\MovieApp.Dto\obj\Debug\net6.0\MovieApp.Dto.csproj.CopyComplete
+C:\Users\bmene\source\repos\MovieApp\MovieApp.Dto\obj\Debug\net6.0\MovieApp.Dto.dll
+C:\Users\bmene\source\repos\MovieApp\MovieApp.Dto\obj\Debug\net6.0\refint\MovieApp.Dto.dll
+C:\Users\bmene\source\repos\MovieApp\MovieApp.Dto\obj\Debug\net6.0\MovieApp.Dto.pdb
+C:\Users\bmene\source\repos\MovieApp\MovieApp.Dto\obj\Debug\net6.0\MovieApp.Dto.genruntimeconfig.cache
+C:\Users\bmene\source\repos\MovieApp\MovieApp.Dto\obj\Debug\net6.0\ref\MovieApp.Dto.dll
